@@ -7,6 +7,11 @@
 </head>
 <body>
     <h1>Practical CC</h1>
+     <h1>Practical CC</h1>
+    <h2>employee form</h2>
+    <h3>First Name<input type="text" name="sid"/></h3><br><br>
+    <h3>last Name<input type="text" name="sid"/></h3><br><br>
+    <h3>email<input type="text" name="sid"/></h3><br><br>
 </body>
 </html>
 <html></html>
